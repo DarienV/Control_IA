@@ -1,13 +1,13 @@
 a) Para validar argumentos, b) Para seleccionar temas de interes, c) Para corregir oraciones, d) Para conocer la estructura de un enunciado
 a) Esta rosa es blanca, b) Alejarse del jardín, c) ¿Fuiste a la fiesta de Jane?, d) ¡No digas eso!
-
-
-
-
-
-
-
-
+a) ∨, b) ∧, c) →, d) /
+a) Un valor real, b) Una expresión que tiene veracidad, c) La veracidad o falsedad de una proposición, d) La verdad en un argumento
+a) Para contener proposiciones indefinidas, b) Para ordenar argumentos conforme a su veracidad, c) Para resumir los valores de verdad de las proposiciones, d) Para contener enunciados verídicos
+a) Los perros nunca son feroces, b) No todos los perros son feroces, c) Algunos perros son feroces, d) Un perro no es feroz
+a) Los lobos aúllan o la luna llena está brillando, b) La luna llena está brillando y los lobos aúllan, c) La luna no está brillando porque los lobos aúllan, d) Si la luna estará brillando, entonces, los lobos están aullando
+a) Está lloviendo y está soleado, b) Está lloviendo y no está soleado, c) No está lloviendo o no está soleado, d) No está lloviendo o está soleado
+a) ¬p ∧ q, b) ¬p ↔ q, c) ¬p → q, d) ¬p → ¬q
+a) ∨, b) ∧, c) →, d) ↔
 a) 4^4, b)2^3, c)2^4, d)4^5
 a) Proposición compuesta la cual es falsa sin importar cuales sean los valores de verdad de sus componentes simples, b)Proposicion compuesta la cual es verdad sin importar cuales sean los valores de verdad de sus componentes simple, c)Proposición compuesta que siempre sera verdad dependiendo de los valores de verdad de sus componentes simples, d)Proposicion simple que siempre será falsa
 a) Proposición simple que siempre será verdadera, b)Proposición compuesta que siempre será verdad dependiendo de los valores de verdad de sus componentes simples, c)Proposición compuesta la cual es verdad sin importar cuales sean los valores de verdad de sus componentes simple, d)Proposición compuesta la cual es falsa sin importar cuales sean los valores de verdad de sus componentes simples
@@ -18,16 +18,16 @@ a) Cuando sus valores de verdad son totalmente opuestos para cada uno de sus com
 a) P=Q, b)P≈Q, c)Q≅P, d)P≡Q
 a) P↔Q Es una contradicción., b)P↔Q Es una equivalencia lógica, c)P↔Q Es una tautología, d)P↔Q Es una implicación lógica 
 a) Subí hacia arriba de la escalera, b)Baje hacia arriba, c)La vida es larga y corta, d)Nunca digas nunca
-
-
-
-
-
-
-
-
-
-
+a) Entre dos proposiciones P y Q se dice que se implican lógicamente cuando siempre que P es verdadera; entonces Q es verdadera; esto no es válido en sentido contrario., b) Entre dos proposiciones P y Q se dice que se implican lógicamente cuando los valores de verdad de P son iguales a los de Q., c) Es igual a la equivalencia lógica, solo que para algunos valores de verdad., d) Es igual al principio de dualidad, solo que para algunos valores de verdad.
+a) →, b) ≡, c) ⊦, d) ↔
+a) ¬p → ¬q, b) ¬q → ¬p, c) q → p, d) p → q
+a) ¬q → ¬p, b) ¬q →¬p, c) q → p, d) p → q
+a) ¬q → ¬p, b) ¬q →¬p, c) q → p, d) p → q
+a) Si dos proposiciones son lógicamente equivalentes; entonces también son sus dobles., b) Entre dos proposiciones P y Q se dice que se implican lógicamente cuando los valores de verdad de P son iguales a los de Q., c) Es igual al principio de dualidad; solo que para algunos valores de verdad., d) Es igual a la equivalencia lógica; solo que para algunos valores de verdad.
+a) p ∨ p ≡ p; p ∧ p ≡ p, b) (p↔q)↔r≡p↔(q↔r), c) ¬¬p≡p, d) p→q ≡ ¬q→¬p
+a) ¬(p∨q) ≡ ¬p∧¬q, b) p∧t ≡ p; p∨t ≡ t, c) p → q ≡ ¬p → ¬q, d) ¬¬p ≡ p
+a) p∨¬p ≡ t, b) p→q ≡ ¬q→¬p, c) p∨t ≡ t, d) ¬¬p≡p
+a) Sustituyendo ∧ por ∨, b) Sustituyendo ∧ por ∨;  ∨ por ∧; t(tautología) por f(contradicción); f(contradicción) por t(tautología)., c) Sustituyendo t(tautología) por f(contradicción); f(contradicción) por t(tautología)., d) Sustituyendo ∨ por ∧.
 a) P ∧ ¬P,b) P ∨ ¬P,c) P ∧ Q,d) P ∨ Q
 a) ¬P ∧ Q,b) ¬P ∨ ¬Q,c) P ∨ Q,d) P ∧ ¬Q
 a) P ∧ ¬Q,b) P ∨ Q,c) ¬P ∨ ¬Q,d) ¬P ∧ Q
