@@ -1,4 +1,4 @@
-a) Para validar argumentos, b) Para seleccionar temas de interés, c) Para corregir oraciones, d) Para conocer la estructura de un enunciado
+a) Para validar argumentos, b) Para seleccionar temas de interes, c) Para corregir oraciones, d) Para conocer la estructura de un enunciado
 a) Esta rosa es blanca, b) Alejarse del jardín, c) ¿Fuiste a la fiesta de Jane?, d) ¡No digas eso!
 
 
@@ -9,7 +9,7 @@ a) Esta rosa es blanca, b) Alejarse del jardín, c) ¿Fuiste a la fiesta de Jane
 
 
 a) 4^4, b)2^3, c)2^4, d)4^5
-a) Proposición compuesta la cual es falsa sin importar cuales sean los valores de verdad de sus componentes simples, b)Proposición compuesta la cual es verdad sin importar cuales sean los valores de verdad de sus componentes simple, c)Proposición compuesta que siempre será verdad dependiendo de los valores de verdad de sus componentes simples, d)Proposición simple que siempre será falsa
+a) Proposición compuesta la cual es falsa sin importar cuales sean los valores de verdad de sus componentes simples, b)Proposicion compuesta la cual es verdad sin importar cuales sean los valores de verdad de sus componentes simple, c)Proposición compuesta que siempre sera verdad dependiendo de los valores de verdad de sus componentes simples, d)Proposicion simple que siempre será falsa
 a) Proposición simple que siempre será verdadera, b)Proposición compuesta que siempre será verdad dependiendo de los valores de verdad de sus componentes simples, c)Proposición compuesta la cual es verdad sin importar cuales sean los valores de verdad de sus componentes simple, d)Proposición compuesta la cual es falsa sin importar cuales sean los valores de verdad de sus componentes simples
 a) V, b)T, c)F, d)t
 a) f, b)F, c)T, d)t 
@@ -33,18 +33,18 @@ a) ¬P ∧ Q,b) ¬P ∨ ¬Q,c) P ∨ Q,d) P ∧ ¬Q
 a) P ∧ ¬Q,b) P ∨ Q,c) ¬P ∨ ¬Q,d) ¬P ∧ Q
 a) Pensar con ganas,b) Razonamiento circular,c) Contradiccion,d) Ignorar contraejemplos
 a) Asumir la conclusión y demuestrar que implica las premisas.,b) Suponer lo contrario de la conclusión y demuestrar que conduce a una contradicción.,c) Proponer un contraejemplo a la conclusión.,d) Usar la inducción matemática para probar la conclusión.
-a) Si x > 0, entonces x^2 > 0,b) Si x < 0, entonces x^2 < 0,c) Si x ≠ 0, entonces x^2 ≠ 0,d) Si x ≥ 0, entonces x^2 ≥ 0
-a) P ∧ Q,b) P ∨ Q,c) ¬P,d) Si llueve, entonces me quedaré adentro.
+a) Si x > 0; entonces x^2 > 0,b) Si x < 0; entonces x^2 < 0,c) Si x ≠ 0; entonces x^2 ≠ 0,d) Si x ≥ 0; entonces x^2 ≥ 0
+a) P ∧ Q,b) P ∨ Q,c) ¬P,d) Si llueve; entonces me quedaré adentro.
 a) (P ∧ Q) ∨ (P ∧ R),b) (P ∨ Q) ∧ (P ∨ R),c) (P ∧ Q) ∧ (P ∧ R),d) (P ∨ Q) ∨ (P ∨ R)
-a) Si Q, entonces P,b) Si no es P, entonces no es Q,c) Si Q, entonces no P,d) Si no Q, entonces no P
+a) Si Q; entonces P,b) Si no es P; entonces no es Q,c) Si Q; entonces no P,d) Si no Q; entonces no P
 a) "2 + 2 = 5",b) "Todos los números pares son divisibles por 3",c) "La suma de dos números primos siempre es par",d) "El cuadrado de cualquier número real es positivo".
 a) p: Por lo tanto no es confiable. q: Bill tiene ojos verdes. r:Todo el que tiene ojos verdes no es confiable., b) q: Bill tiene ojos verdes. r: Por lo tanto no es confiable. p:Todo el que tiene ojos verdes no es confiable., c)r:Todo el que tiene ojos verdes no es confiable. p:Bill tiene ojos verdes. q:Por lo tanto no es confiable., d)r:Bill tiene ojos verdes. q:Todo el que tiene ojos verdes no es confiable. p:Por lo tanto no es confiable.
 a)  Verdadero, b) Falso, c) No llevan letra, d)No hay respuesta
 a) Punto, b) Predicado, c) Párrafo, d) Sistema
-a) 1. p ⁠→ q (premisa); 2. t ⁠→ s (premisa); 3. ¬q (premisa); 4.r (premisa); 5.¬p (1,3. MT); 6.s (2,4. MP); 7.¬p ^ s (5,6. Conj), b) 1. p ⁠→ q (premisa); 2. t ⁠→ s (premisa); 3. ¬q (premisa); 4.r (premisa); 5.¬p	(1,3. MP); 6.s (2,4. MT); 7.¬p ^ s (5,6. Conj), c)1. p ⁠→ q (premisa), 2. t ⁠→ s (premisa), 3. ¬q (premisa), 4.r (premisa), 5.p (1,3. MP), 6.¬s (2,4. MT), 7.¬p ^ s	(5,6. Conj), d)1. p ⁠→ q (premisa); 2. t ⁠→ s (premisa); 3. ¬q (premisa); 4.r (premisa); 5.¬p (1,3. MT); 6.s (2,4. MP); 7.¬p ^ s (5,6. Add)
+a) 1. p ⁠→ q (premisa); 2. t ⁠→ s (premisa); 3. ¬q (premisa); 4.r (premisa); 5.¬p (1,3. MT); 6.s (2,4. MP); 7.¬p ^ s (5,6. Conj), b) 1. p ⁠→ q (premisa); 2. t ⁠→ s (premisa); 3. ¬q (premisa); 4.r (premisa); 5.¬p	(1,3. MP); 6.s (2,4. MT); 7.¬p ^ s (5,6. Conj), c)1. p ⁠→ q (premisa); 2. t ⁠→ s (premisa); 3. ¬q (premisa); 4.r (premisa); 5.p (1,3. MP); 6.¬s (2,4. MT); 7.¬p ^ s	(5,6. Conj), d)1. p ⁠→ q (premisa); 2. t ⁠→ s (premisa); 3. ¬q (premisa); 4.r (premisa); 5.¬p (1,3. MT); 6.s (2,4. MP); 7.¬p ^ s (5,6. Add)
 a) Simbología-Función de Transferencia, b) Variable-Función Proposicional, c) Lista- Función Variable, d) Palabra-Función de Estado
 a) ∃, b) ∨, c) ∀, d) ⊃
 a) ⊃, b) ∃, c) ∀, d) ∨
-a) ∃x[C(x)^¬A(x)], b) ∀x[C(x)^¬A(x)], c) ∀x[¬C(x)^A(x)], d) ∃x[¬C(x)^ A(x)]
+a) ∃x[C(x)∧¬A(x)], b) ∀x[C(x)∧¬A(x)], c) ∀x[¬C(x)∧A(x)], d) ∃x[¬C(x)∧A(x)]
 a) Universo del discurso, b) Universo proposicional, c) Universo de variables, d) Universo de premisas
-a) Es verdadero para los integradores y los números reales, pero es falso para los integradores negativos., b) Es verdadero para los tres universos., c)Es falso para los integradores y los números reales, pero es verdadero para los integradores negativos., d) Es falso para los tres universos.
+a) Es verdadero para los integradores y los números reales; pero es falso para los integradores negativos., b) Es verdadero para los tres universos., c)Es falso para los integradores y los números reales; pero es verdadero para los integradores negativos., d) Es falso para los tres universos.
