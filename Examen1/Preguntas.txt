@@ -1,4 +1,4 @@
-1. ¿Para qué se utiliza la lógica?
+1. ¿Para que se utiliza la logica?
 2. ¿Cual de los siguientes ejemplos es una proposicion?
 
 
@@ -13,10 +13,10 @@
 13. ¿Cual de los siguientes enunciados es la definicion correcta de contradiccion?
 14. ¿Cual es la denotacion completa de una tautologia?
 15. ¿Cual es la denotacion correcta de una contradiccion?
-16. Tomando en cuenta la tabla de verdad de (p∨¬p), ¿Cual de los siguientes enunciados es verdad?
+16. Tomando en cuenta la tabla de verdad de (p||¬p), ¿Cual de los siguientes enunciados es verdad?
 17. Dos proposiciones son logicamente equivalentes cuando:
 18. ¿Cual es la denotacion correcta para que P y Q sean logicamente equivalentes?
-19. Si tenemos que P≡Q. ¿Cual de las siguientes opciones es correcta?
+19. Si tenemos que P==Q. ¿Cual de las siguientes opciones es correcta?
 20. Cual de los siguientes enunciados es una tautología:
 21. ¿Que es una implicacion logica? 
 22. ¿Cual es el simbolo de la implicacion logica? 
@@ -29,22 +29,22 @@
 
 
 31. ¿Cual de las siguientes expresiones es una tautologia?
-32. ¿Cual de las siguientes expresiones es logicamente equivalente a ¬(P^Q)?
+32. ¿Cual de las siguientes expresiones es logicamente equivalente a ¬(P&&Q)?
 33. ¿Cual de las siguientes expresiones es la negacion de P –> Q?
 34. ¿Cual de los siguientes es un metodo valido de demostracion?
 35. ¿Cual de los siguientes es un ejemplo de prueba por contradiccion?
 36. ¿Cual de los siguientes es cierto para todos los numeros reales x?
 37. ¿Cual de las siguientes es un ejemplo de una proposición de la forma "Si P, entonces Q"?
-38. ¿Cual de los siguientes es logicamente equivalente a "P ∧ (Q ∨ R)"?
+38. ¿Cual de los siguientes es logicamente equivalente a "P && (Q || R)"?
 39. ¿Cual de las siguientes es la inversa de la afirmacion "Si P, entonces Q"?
 40. ¿Cual de los siguientes es un ejemplo de una contradiccion?
 41. En el siguiente argumento: “Todo el que tiene ojos verdes no es confiable. Bill tiene ojos verdes. Por lo tanto no es confiable”. Define cuales son las premisas p y q y la conclusión r.
 42. Las proposiciones: “Bill tiene ojos verdes” y “Jeff tiene ojos verdes”. Se simbolizan con p y p.
 43. Un ________ describe la propiedad de uno o más objetos o individuos, en una proposicion.
-44. Del siguiente argumento: PREMISAS: p ⁠→ q, t ⁠→ s, ¬q, r. CONCLUSIÓN: ¬p ^ s; una prueba formal es:
+44. Del siguiente argumento: PREMISAS: p ⁠-> q, t ⁠-> s, ¬q, r. CONCLUSIÓN: ¬p && s; una prueba formal es:
 45. La letra x es una _____ que funciona como un indicador de lugar donde se puede sustituir el nombre de objetos o individuos ordenados para formar proposiciones. Por esto mismo, R(x) es llamado ______.
 46. Es el simbolo llamado cuantificador universal.
 47. Es el símbolo llamado cuantificador existencial.
 48. Para la proposición, “Algunos niños no se disculpan”, se define: C(x): x es un niño. A(x): x se disculpa.
 49. Cuando se habla de un conjunto particular de miembros de un grupo más grande se le dice:
-50.Se define lo siguiente: F(x)= x es mayor que 5; E(x)= x es cualquier número; N(x)= x es negativo. Considerando los siguientes universos del discurso: (i) integradores; (ii) números reales; (iii)integradores negativos. Determina los valores de verdad de la proposición en cada uno de los universos de discurso. ∀x[F(x)^E(x)]
+50.Se define lo siguiente: F(x)= x es mayor que 5; E(x)= x es cualquier número; N(x)= x es negativo. Considerando los siguientes universos del discurso: (i) integradores; (ii) números reales; (iii)integradores negativos. Determina los valores de verdad de la proposición en cada uno de los universos de discurso. ∀x[F(x)&&E(x)]
