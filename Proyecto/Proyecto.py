@@ -32,8 +32,8 @@ weights, epochs = perceptron_training(X, y)
 print("Weights:", weights)
 print("Number of epochs:", epochs)
 
-save_path = "C:\Users\didie\Documents\BUAP_Prim23\Control_IA\Proyecto\Perceptron_w({})_Eta({}).csv".format(str(w),str(Eta))
-outfile = open(save_path, "w")
+save_path = "C:\\Users\\didie\\Documents\\BUAP_Prim23\\Control_IA\\Proyecto\\"
+outfile = open(save_path + "Perceptron_w({})_Eta({}).csv".format(str(w),str(Eta)), "w")
 outfile.write("# of Execution,Weights,Epochs\n")
 
 execution = []
